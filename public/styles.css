@@ -1,4 +1,12 @@
 #map{
-  height: 500px;
-  width:500px;
+  height: 600px;
+  width:600px;
+  margin: auto;
+}
+
+#bodywrapper {
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+      background-color: #42b9f4;
 }
